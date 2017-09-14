@@ -2,7 +2,158 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35465e89-4ca4-4c80-8cba-52b2a853e246" name="Default" comment="新建框架">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/views.py" afterPath="$PROJECT_DIR$/page/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whqj/settings.py" afterPath="$PROJECT_DIR$/whqj/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whqj/urls.py" afterPath="$PROJECT_DIR$/whqj/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/about.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/about.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/amazeui.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/amazeui.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/common.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/common.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/contact.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/contact.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/example.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/example.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/index.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/index.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/join.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/join.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/news.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/news.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/other.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/other.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/product.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/product.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/css/solution.min.css" afterPath="$PROJECT_DIR$/page/templates/assets/css/solution.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/page/templates/assets/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/001.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/001.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/002.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/002.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/003.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/003.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/004.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/004.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/005.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/005.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/006.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/006.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/007.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/007.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/008.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/008.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/ben.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/ben.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/f01.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/f01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/f02.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/f02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/f03.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/f03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/f04.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/f04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/slh_pic_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/slh_pic_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/tz_pic_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/tz_pic_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/about/wy_pic_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/about/wy_pic_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/example/example1.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/example/example1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/example/logo_hx_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/example/logo_hx_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/footer.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/footer.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_Microsoft.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_Microsoft.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_Microsoft_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_Microsoft_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_gmw.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gmw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_gmw_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gmw_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_gov.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gov.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_gov_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gov_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_hx.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_hx.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_hx_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_hx_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_jl.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_jl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_jl_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_jl_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_qhdx.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_qhdx.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/customer_logo_qhdx_active.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_qhdx_active.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/f01.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/f01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/f02.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/f02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/f03.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/f03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/f04.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/f04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/promo_banner_bg.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/promo_banner_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/promo_detailed_bg.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/promo_detailed_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/index/slide_simple_bg.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/index/slide_simple_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/login-bg.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/login-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/logo.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/logo2_03.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/logo2_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/news/av01.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/news/av01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/news/av02.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/news/av02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/news/b01.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/news/b01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/news/post01.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/news/post01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/news/post02.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/news/post02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/pattern-dark.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/pattern-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/pattern-light.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/pattern-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/arrow-left.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/arrow-left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/arrow-right.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/arrow-right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product1-banner.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product1-banner.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2-phone.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2-phone.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_icon_1.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_icon_2.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_icon_3.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_icon_4.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon1.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon2.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon3.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon4.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon5.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon6.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon7.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon8.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product2/product2_service_icon9.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product3/product3_img_1.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product3/product3_img_2.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product3/product3_img_3.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product3/product3_img_4.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show1.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show10.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show2.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show3.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show4.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show5.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show6.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show7.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show8.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/product/product_show9.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/product/product_show9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo1.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo10.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo11.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo12.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo13.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo14.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo15.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo2.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo3.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo4.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo5.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo6.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo7.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo8.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/cooperation-logo9.jpg" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/o2o-img-1.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/o2o-img-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/o2o-img-2.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/o2o-img-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/o2o-img-3.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/o2o-img-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/solution-banner.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-banner.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/solution-show-1.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/solution-show-2.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/solution-show-3.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/solution-show-4.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/solution-show-5.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/images/solution/solution-show-6.png" afterPath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/js/amazeui.js" afterPath="$PROJECT_DIR$/page/templates/assets/js/amazeui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/js/common.js" afterPath="$PROJECT_DIR$/page/templates/assets/js/common.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/js/jquery-2.1.0.js" afterPath="$PROJECT_DIR$/page/templates/assets/js/jquery-2.1.0.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/about.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/about.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/common.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/common.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/contact.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/contact.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/example.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/example.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/index.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/index.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/join.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/join.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/news.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/news.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/other.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/other.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/product.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/product.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/assets/less/solution.less" afterPath="$PROJECT_DIR$/page/templates/assets/less/solution.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/404-dark.html" afterPath="$PROJECT_DIR$/page/templates/html/404-dark.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/404-light.html" afterPath="$PROJECT_DIR$/page/templates/html/404-light.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/about.html" afterPath="$PROJECT_DIR$/page/templates/html/about.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/contact.html" afterPath="$PROJECT_DIR$/page/templates/html/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/example.html" afterPath="$PROJECT_DIR$/page/templates/html/example.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/join.html" afterPath="$PROJECT_DIR$/page/templates/html/join.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/login.html" afterPath="$PROJECT_DIR$/page/templates/html/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/news-content.html" afterPath="$PROJECT_DIR$/page/templates/html/news-content.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/news.html" afterPath="$PROJECT_DIR$/page/templates/html/news.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/product1.html" afterPath="$PROJECT_DIR$/page/templates/html/product1.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/product2.html" afterPath="$PROJECT_DIR$/page/templates/html/product2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/product3.html" afterPath="$PROJECT_DIR$/page/templates/html/product3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/register.html" afterPath="$PROJECT_DIR$/page/templates/html/register.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/html/solution.html" afterPath="$PROJECT_DIR$/page/templates/html/solution.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/page/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,6 +164,66 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#638#670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whqj/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#638#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/whqj/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,9 +238,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/page/views.py" />
         <option value="$PROJECT_DIR$/page/urls.py" />
         <option value="$PROJECT_DIR$/whqj/urls.py" />
+        <option value="$PROJECT_DIR$/page/views.py" />
+        <option value="$PROJECT_DIR$/whqj/settings.py" />
       </list>
     </option>
   </component>
@@ -39,7 +251,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="196" />
     <option name="y" value="31" />
     <option name="width" value="1120" />
@@ -61,8 +273,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,16 +285,28 @@
               <item name="wxwhqj" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wxwhqj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxwhqj" type="462c0819:PsiDirectoryNode" />
+              <item name="whqj" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\document\personal\whqj\wxwhqj\page" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,39 +366,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,10 +405,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/page/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whqj/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#638#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whqj/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="71" column="3" lean-forward="true" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -205,6 +463,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -233,6 +494,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -240,13 +504,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#638#679#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -271,24 +531,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/views.py">
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="483">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whqj/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="368">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#638#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whqj/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>

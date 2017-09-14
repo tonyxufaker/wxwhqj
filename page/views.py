@@ -7,4 +7,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse("无锡市万弘情结用品有限公司")
+    return render(request, 'templates/index.html')
