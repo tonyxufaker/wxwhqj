@@ -2,159 +2,140 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35465e89-4ca4-4c80-8cba-52b2a853e246" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/about.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/amazeui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/common.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/contact.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/example.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/index.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/join.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/news.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/other.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/product.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/css/solution.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/ben.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/f01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/f02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/f03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/f04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/slh_pic_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/tz_pic_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/about/wy_pic_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/example/example1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/example/logo_hx_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/footer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_Microsoft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_Microsoft_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_gmw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_gmw_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_gov.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_gov_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_hx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_hx_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_jl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_jl_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_qhdx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/customer_logo_qhdx_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/f01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/f02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/f03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/f04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/promo_banner_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/promo_detailed_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/index/slide_simple_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/login-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/logo2_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/news/av01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/news/av02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/news/b01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/news/post01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/news/post02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/pattern-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/pattern-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product1-banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2-phone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_icon_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_icon_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_icon_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_icon_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product2/product2_service_icon9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product3/product3_img_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product3/product3_img_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product3/product3_img_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product3/product3_img_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/product/product_show9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/cooperation-logo9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/o2o-img-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/o2o-img-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/o2o-img-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/solution-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/solution-show-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/solution-show-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/solution-show-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/solution-show-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/solution-show-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/images/solution/solution-show-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/js/amazeui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/js/jquery-2.1.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/about.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/common.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/contact.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/example.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/join.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/news.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/other.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/product.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page/statiic/assets/less/solution.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/about.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/amazeui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/common.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/contact.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/example.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/index.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/join.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/news.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/other.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/product.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/css/solution.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/ben.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/f01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/f02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/f03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/f04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/slh_pic_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/tz_pic_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/about/wy_pic_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/example/example1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/example/logo_hx_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/footer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_Microsoft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_Microsoft_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gmw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gmw_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gov.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_gov_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_hx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_hx_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_jl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_jl_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_qhdx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/customer_logo_qhdx_active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/f01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/f02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/f03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/f04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/promo_banner_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/promo_detailed_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/index/slide_simple_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/login-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/logo2_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/news/av01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/news/av02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/news/b01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/news/post01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/news/post02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/pattern-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/pattern-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product1-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2-phone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_icon_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product2/product2_service_icon9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product3/product3_img_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/product/product_show9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/cooperation-logo9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/o2o-img-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/o2o-img-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/o2o-img-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/images/solution/solution-show-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/js/amazeui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/js/jquery-2.1.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/about.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/common.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/contact.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/example.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/join.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/news.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/other.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/product.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/templates/assets/less/solution.less" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/404-dark.html" afterPath="$PROJECT_DIR$/page/templates/html/404-dark.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/404-light.html" afterPath="$PROJECT_DIR$/page/templates/html/404-light.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/about.html" afterPath="$PROJECT_DIR$/page/templates/html/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/contact.html" afterPath="$PROJECT_DIR$/page/templates/html/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/example.html" afterPath="$PROJECT_DIR$/page/templates/html/example.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/join.html" afterPath="$PROJECT_DIR$/page/templates/html/join.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/login.html" afterPath="$PROJECT_DIR$/page/templates/html/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/news-content.html" afterPath="$PROJECT_DIR$/page/templates/html/news-content.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/news.html" afterPath="$PROJECT_DIR$/page/templates/html/news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/product1.html" afterPath="$PROJECT_DIR$/page/templates/html/product1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/product2.html" afterPath="$PROJECT_DIR$/page/templates/html/product2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/product3.html" afterPath="$PROJECT_DIR$/page/templates/html/product3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/register.html" afterPath="$PROJECT_DIR$/page/templates/html/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/html/solution.html" afterPath="$PROJECT_DIR$/page/templates/html/solution.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/templates/index.html" afterPath="$PROJECT_DIR$/page/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/urls.py" afterPath="$PROJECT_DIR$/page/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/views.py" afterPath="$PROJECT_DIR$/page/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whqj/settings.py" afterPath="$PROJECT_DIR$/whqj/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whqj/urls.py" afterPath="$PROJECT_DIR$/whqj/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -171,9 +152,11 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="322">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="e#638#670#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -203,8 +186,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
-              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+            <state relative-caret-position="230">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -396,16 +379,22 @@
       <option name="project" value="LOCAL" />
       <updated>1505383150773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="加载css、js文件">
+      <created>1505469501772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505469501772</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -433,7 +422,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建框架" />
     <MESSAGE value="修改配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置文件" />
+    <MESSAGE value="加载css、js文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="加载css、js文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -444,7 +434,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -488,7 +480,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -540,7 +534,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -646,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        <state relative-caret-position="230">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
           </folding>
@@ -656,9 +652,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="322">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
