@@ -22,5 +22,15 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.index, name='index'),
     url(r'about', views.about, name='about'),
-    url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'doucument_root': settings.STATIC_ROOT}, name='static')
+    url(r'product1', views.product1, name='product1'),
+    url(r'product2', views.product2, name='product2'),
+    url(r'product3', views.product3, name='product3'),
+    url(r'example', views.example, name='example'),
+    url(r'solution', views.solution, name='solution'),
+    url(r'join', views.join, name='join'),
+    url(r'contact', views.contact, name='contact'),
+    url(r'news-content', views.news_content, name='news-content'),
+    url(r'404-dark', views.dark, name='404-dark'),
+    url(r'404-light', views.light, name='404-light'),
+    url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}, name='static')
 ]
