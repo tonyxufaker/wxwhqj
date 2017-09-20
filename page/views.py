@@ -41,3 +41,6 @@ def dark(request):
 
 def light(request):
     return render(request, 'html/404-light.html')
+
+def news(request):
+    return render(request, 'html/news.html')

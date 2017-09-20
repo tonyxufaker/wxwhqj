@@ -32,5 +32,6 @@ urlpatterns = [
     url(r'contact', views.contact, name='contact'),
     url(r'news-content', views.news_content, name='news-content'),
     url(r'404-dark', views.dark, name='404-dark'),
-    url(r'404-light', views.light, name='404-light')
+    url(r'404-light', views.light, name='404-light'),
+    url(r'news', views.news, name='news')
 ]
