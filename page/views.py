@@ -5,6 +5,8 @@ from django.shortcuts import render
 
 from django.http import HttpResponse
 
+from page import models
+
 # Create your views here.
 def index(request):
     return render(request, 'index.html')
@@ -31,7 +33,12 @@ def join(request):
     return render(request, 'html/join.html')
 
 def contact(request):
-    return render(request, 'html/contact.html')
+    name = models.apply.name
+    email = models.apply.email
+    phone = models.apply.phone
+    selection = models.apply.selection
+    content = models.apply.content
+    return render(request, 'html/contact.html', "")
 
 def news_content(request):
     return render(request, 'html/news-content.html')
